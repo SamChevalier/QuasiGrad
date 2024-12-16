@@ -36,6 +36,7 @@ PrecompileTools = "1.2.0"
 Preconditioners = "0.6.1"
 Revise = "3.5.13"
 StaticArrays = "1.9.1"
+Statistics = "1"
 julia = "1"
 
 [extras]
